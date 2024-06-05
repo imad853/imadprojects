@@ -1,2 +1,2 @@
 # imadprojects
-contains all the projetc
+contains the school management system 
